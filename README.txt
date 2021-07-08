@@ -1,5 +1,4 @@
-Este es el repositorio del Trabajo Final de PS y haremos un 
-Sistema de Pedido y Pago de Cuentas en un Restaurante.
+Este es el repositorio del Trabajo Final de PS
 
 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠿⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
